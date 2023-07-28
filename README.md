@@ -7,6 +7,9 @@ https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/create_image.html
 
 https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/anchors.html
 
+https://www.htmlsymbols.xyz/unicode/U+2680
+
+
 This is a blank canvas as of now. And as we are making
 our version of the Ludo game we’ll change it by just
 keeping a single line of boxes on both the sides of the
